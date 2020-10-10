@@ -2,7 +2,7 @@
 baseURL = "http://localhost:1313"
 
 # Change to your Brand or Website Title
-title = "Axiom A Hugo Theme"
+title = "Matters"
 # Language codes (lowercase)
 languageCode = "en-us"
 defaultContentLanguage = "en"
